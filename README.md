@@ -1,0 +1,55 @@
+# st
+
+This is my personal fork of the original [st suckless terminal](https://st.suckless.org/). I try to always backport upstream patches form st's master asap.
+
+
+## Installation
+
+If using arch or an arch based distro with access to the AUR, you can use my AUR package: [st-ruifm-git](https://aur.archlinux.org/packages/st-ruifm-git/)
+
+Else, clone this repo, compile and install manually:
+
+```bash
+git clone https://github.com/ruifm/st.git
+cd st
+make
+sudo make install
+```
+
+By default, it will be installed to your system's `/usr/local/` prefix. If, for instance you prefer (or are only allowed) a local user installation:
+
+```bash
+mkdir -p ~/.local
+make PREFIX=$HOME/.local install
+```
+
+## Features
+
+Applied community patches:
+
+* [anysize](https://st.suckless.org/patches/anysize/)
+* [bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/)
+* [boxdraw](https://st.suckless.org/patches/boxdraw/)
+* [clipboard](https://st.suckless.org/patches/clipboard/)
+* [copyurl](https://st.suckless.org/patches/copyurl/) with the highlight feature
+* [gruvbox](https://st.suckless.org/patches/gruvbox/)
+* [hidecursor](https://st.suckless.org/patches/hidecursor/)
+* [scrollback](https://st.suckless.org/patches/scrollback/) without mouse
+  support
+* [selectioncolors](https://st.suckless.org/patches/selectioncolors/)
+* [vertcenter](https://st.suckless.org/patches/vertcenter/)
+
+Other popular patches suck as [alpha](https://st.suckless.org/patches/alpha/) and [xresources](https://st.suckless.org/patches/xresources/) were not applied since I personally do not use them and **I want to keep this st fork as minimal as possible**.
+
+## Shortcuts
+
+Key combination | Action
+--- | ---
+alt + k | scroll-up
+alt + j | scroll-down
+alt + u | big scroll-up
+alt + d | big scroll-down
+alt + shift + k | increase font size
+alt + shift + j | decrease font size
+alt + o | font size reset
+alt + l | copy last printed url to clipboard
