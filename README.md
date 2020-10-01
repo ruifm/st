@@ -5,7 +5,8 @@ This is my personal fork of the original [st suckless terminal](https://st.suckl
 
 ## Installation
 
-If using arch or an arch based distro with access to the AUR, you can use my AUR package: [st-ruifm-git](https://aur.archlinux.org/packages/st-ruifm-git/)
+If using arch or an arch based distro with access to the AUR, you can use my AUR
+package: [st-ruifm-git](https://aur.archlinux.org/packages/st-ruifm-git/)
 
 Else, clone this repo, compile and install manually:
 
@@ -16,7 +17,8 @@ make
 sudo make install
 ```
 
-By default, it will be installed to your system's `/usr/local/` prefix. If, for instance you prefer (or are only allowed) a local user installation:
+By default, it will be installed to your system's `/usr/local/` prefix. If, for
+instance you prefer (or are only allowed) a local user installation:
 
 ```bash
 mkdir -p ~/.local
@@ -34,12 +36,13 @@ Applied community patches:
 * [copyurl](https://st.suckless.org/patches/copyurl/) with the highlight feature
 * [gruvbox](https://st.suckless.org/patches/gruvbox/)
 * [hidecursor](https://st.suckless.org/patches/hidecursor/)
-* [scrollback](https://st.suckless.org/patches/scrollback/) without mouse
-  support
-* [selectioncolors](https://st.suckless.org/patches/selectioncolors/)
+* [scrollback](https://st.suckless.org/patches/scrollback/) without mouse support
 * [vertcenter](https://st.suckless.org/patches/vertcenter/)
 
-Other popular patches suck as [alpha](https://st.suckless.org/patches/alpha/) and [xresources](https://st.suckless.org/patches/xresources/) were not applied since I personally do not use them and **I want to keep this st fork as minimal as possible**.
+Other popular patches suck as [alpha](https://st.suckless.org/patches/alpha/)
+and [xresources](https://st.suckless.org/patches/xresources/) were not applied
+since I personally do not use them and **I want to keep this st fork as minimal
+as possible**.
 
 ## Shortcuts
 
