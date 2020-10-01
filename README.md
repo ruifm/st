@@ -36,6 +36,7 @@ Applied community patches:
 * [copyurl](https://st.suckless.org/patches/copyurl/) with the highlight feature
 * [gruvbox](https://st.suckless.org/patches/gruvbox/)
 * [hidecursor](https://st.suckless.org/patches/hidecursor/)
+* [ligatures](https://st.suckless.org/patches/ligatures/)
 * [scrollback](https://st.suckless.org/patches/scrollback/) without mouse support
 * [vertcenter](https://st.suckless.org/patches/vertcenter/)
 
