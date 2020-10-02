@@ -34,6 +34,7 @@ Applied community patches:
 * [boxdraw](https://st.suckless.org/patches/boxdraw/)
 * [clipboard](https://st.suckless.org/patches/clipboard/)
 * [copyurl](https://st.suckless.org/patches/copyurl/) with the highlight feature
+* [font2](https://st.suckless.org/patches/font2/)
 * [gruvbox](https://st.suckless.org/patches/gruvbox/)
 * [hidecursor](https://st.suckless.org/patches/hidecursor/)
 * [ligatures](https://st.suckless.org/patches/ligatures/)
