@@ -1,7 +1,6 @@
 # st
 
-This is my personal fork of the original [st suckless terminal](https://st.suckless.org/). I try to always backport upstream patches form st's master asap.
-
+This is my personal fork of the original [st suckless terminal](https://st.suckless.org/). I try to always backport upstream patches form st's master ASAP.
 
 ## Installation
 
