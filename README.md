@@ -40,6 +40,7 @@ Applied community patches:
 * [scrollback](https://st.suckless.org/patches/scrollback/) without mouse support
 * [vertcenter](https://st.suckless.org/patches/vertcenter/)
 * [w3m](https://st.suckless.org/patches/w3m/)
+* [st-undercurl](https://github.com/hexoctal/st-undercurl)
 
 Other popular patches suck as [alpha](https://st.suckless.org/patches/alpha/)
 and [xresources](https://st.suckless.org/patches/xresources/) were not applied
