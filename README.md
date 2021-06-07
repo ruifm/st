@@ -4,8 +4,12 @@ This is my personal fork of the original [st suckless terminal](https://st.suckl
 
 ## Installation
 
-If using arch or an arch based distro with access to the AUR, you can use my AUR
-package: [st-ruifm-git](https://aur.archlinux.org/packages/st-ruifm-git/)
+If using arch or an arch based distro, you can manually install the
+`st-ruifm-git` package provided in the `PKGBUILD`, using:
+
+```bash
+makepkg -si
+```
 
 Else, clone this repo, compile and install manually:
 
