@@ -32,6 +32,7 @@ make PREFIX=$HOME/.local install
 
 Applied community patches:
 
+* [application-sync](https://st.suckless.org/patches/sync/)
 * [anysize](https://st.suckless.org/patches/anysize/)
 * [bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/)
 * [boxdraw](https://st.suckless.org/patches/boxdraw/)
@@ -42,9 +43,9 @@ Applied community patches:
 * [hidecursor](https://st.suckless.org/patches/hidecursor/)
 * [ligatures](https://st.suckless.org/patches/ligatures/)
 * [scrollback](https://st.suckless.org/patches/scrollback/) without mouse support
+* [undercurl](https://st.suckless.org/patches/undercurl/)
 * [vertcenter](https://st.suckless.org/patches/vertcenter/)
 * [w3m](https://st.suckless.org/patches/w3m/)
-* [st-undercurl](https://github.com/hexoctal/st-undercurl)
 
 Other popular patches suck as [alpha](https://st.suckless.org/patches/alpha/)
 and [xresources](https://st.suckless.org/patches/xresources/) were not applied
