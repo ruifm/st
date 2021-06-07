@@ -44,6 +44,7 @@ Applied community patches:
 * [hidecursor](https://st.suckless.org/patches/hidecursor/)
 * [ligatures](https://st.suckless.org/patches/ligatures/)
 * [scrollback](https://st.suckless.org/patches/scrollback/) without mouse support
+* [spoiler](https://st.suckless.org/patches/spoiler/)
 * [undercurl](https://st.suckless.org/patches/undercurl/)
 * [vertcenter](https://st.suckless.org/patches/vertcenter/)
 * [w3m](https://st.suckless.org/patches/w3m/)
