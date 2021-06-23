@@ -58,10 +58,10 @@ as possible**.
 
 Key combination | Action
 --- | ---
-alt + k | scroll-up
-alt + j | scroll-down
-alt + u | big scroll-up
-alt + d | big scroll-down
+alt + u | scroll-up
+alt + d | scroll-down
+alt + shift + u | big scroll-up
+alt + shift + d | big scroll-down
 alt + shift + k | increase font size
 alt + shift + j | decrease font size
 alt + o | font size reset
