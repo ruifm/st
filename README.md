@@ -65,4 +65,4 @@ alt + shift + d | big scroll-down
 alt + shift + k | increase font size
 alt + shift + j | decrease font size
 alt + o | font size reset
-alt + l | copy last printed url to clipboard
+alt + shift + l | copy last printed url to clipboard

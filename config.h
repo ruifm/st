@@ -226,7 +226,7 @@ static Shortcut shortcuts[] = {
     {ALTMOD, XK_K, zoom, {.f = +1}},
     {ALTMOD, XK_J, zoom, {.f = -1}},
     {MODKEY, XK_o, zoomreset, {.f = 0}},
-    {MODKEY, XK_l, copyurl, {.i = 0}},
+    {ALTMOD, XK_l, copyurl, {.i = 0}},
 };
 
 /*
